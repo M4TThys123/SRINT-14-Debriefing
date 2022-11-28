@@ -10,8 +10,8 @@ De opleiding communication and Multimedia Design (CMD), een ontwerpopleiding voo
 
 ## Opdrachtomschrijving
 Naar aanleiding van de al gebouwde CMD mid term website is het onze taak om hierop een herdesign te maken met de content die in het huidige cms staat. Verder wordt er in dit project ook gekeken naar mogelijk extra functionaliteiten, zoals: easter eggs, animaties, comments en versiebeheer.
-Aanleiding
 
+## Aanleiding
 De aanleiding van de opdracht is dat CMD wil verder itereren op de al bestaande website voor de mid-term. Deze iteraties zullen zich vooral focussen op het beter leesbaar maken van de verschillende teksten en de website uitnodigender maken. Er is namelijk veel tekst waardoor de gebruiker snel “verveeld’ zou kunnen worden. Door te spelen met animaties, easter eggs, zoals geheime buttons, tooltips enzovoort en de layout is het aan ons om een website te ontwikkelen dat zowel de nodige data displayed maar dit aangeboden wordt op een manier dat de gebruiker met aandacht de data doorloopt.
 
 ## Doelstelling
