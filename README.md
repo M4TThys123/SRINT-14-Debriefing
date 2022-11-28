@@ -1,9 +1,9 @@
 # Debriefing CMD
 ## Contact informatie
-Irene Kamp
-i.kamp@hva.nl
-Datum: 01-10-2022
-Oplevering: 04-11-2022
+* Irene Kamp
+* i.kamp@hva.nl
+* Datum: 01-10-2022
+* Oplevering: 04-11-2022
 
 ## Achtergrondinformatie
 De opleiding communication and Multimedia Design (CMD), een ontwerpopleiding voor digital design. In de kern van de opleiding zit interaction design, vormgeving en techniek (met name front end development). Zij worden elk jaar beoordeeld door een commissie van mensen met verschillende achtergronden (denk hierbij aan tech maar ook aan leerkrachten, alumni en studenten), met een tussentijdse mid-term. Dit jaar heeft de opleiding gekozen om de bewijslast te presenteren in de vorm van een website. In voorgaande jaren was dit in de vorm van een e-book en pdf.
